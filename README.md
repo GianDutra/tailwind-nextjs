@@ -5,7 +5,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/GianDutra/tailwind-nextjs">
 
-   <a href="https://github.com/GianDutra/tailwind-nextjs/commits/master">
+   <a href="https://github.com/GianDutra/tailwind-nextjs/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GianDutra/tailwind-nextjs">
   </a>
   
