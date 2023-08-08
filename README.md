@@ -20,7 +20,7 @@
 
 Para criar o site foi utilizado:
 
-#### **Website**   ([NextJS](https://nextjs.org/)  +  [React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/)
+#### **Website**   ([NextJS](https://nextjs.org/)  +  [React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 - **[TailWindCSS](https://tailwindcss.com/)**
 - **[Lucide](https://lucide.dev/)**
 - **[FramerMotion](https://www.framer.com/motion/)**
