@@ -47,25 +47,30 @@ export default function Home() {
           >
             Name
           </label>
-          <div className="grid gap-6 lg:grid-cols-2">
+          <div className="flex flex-col gap-6 lg:grid lg:grid-cols-2">
             <Input.Root>
-              <Input.Control
-                name="firstName"
-                id="firstName"
-                type="text"
-                defaultValue="Gian"
-              />
+              <Input.Control id="firstName" defaultValue="Gian" />
             </Input.Root>
-            <Input.Root>
-              <Input.Control name="lastName" type="text" defaultValue="Dutra" />
-            </Input.Root>
+
+            <div className="flex flex-col gap-3 lg:block">
+              <label
+                htmlFor="lastName"
+                className="text-sm font-medium text-zinc-700 dark:text-zinc-300 lg:sr-only"
+              >
+                Last name
+              </label>
+
+              <Input.Root>
+                <Input.Control id="lastName" defaultValue="Dutra" />
+              </Input.Root>
+            </div>
           </div>
         </div>
 
-        <div className="grid gap-3 pt-5 lg:grid-cols-form">
+        <div className="flex flex-col gap-3 pt-5 lg:grid lg:grid-cols-form">
           <label
             htmlFor="email"
-            className="text-sm font-medium text-zinc-700 dark:text-zinc-100"
+            className="text-sm font-medium text-zinc-700 dark:text-zinc-300"
           >
             Email address
           </label>
