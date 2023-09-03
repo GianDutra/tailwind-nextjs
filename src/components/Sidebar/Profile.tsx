@@ -1,25 +1,27 @@
-/* eslint-disable @next/next/no-img-element */
-import { LogOut } from "lucide-react";
-import { Button } from "../Button";
+import { LogOut } from 'lucide-react'
+import { Button } from '../Button'
+
+export interface ProfileProps {}
 
 export function Profile() {
   return (
-    <div className="grid items-center gap-3 grid-cols-profile">
+    <div className="flex items-center gap-3">
       <img
-        src="https://github.com/GianDutra.png"
-        className="w-10 h-10 rounded-full"
+        src="https://github.com/giandutra.png"
+        className="h-10 w-10 rounded-full"
+        alt=""
       />
-      <div className="flex flex-col truncate">
-        <span className="text-sm font-semibold text-zinc-700">
+      <div className="flex flex-col">
+        <span className="block text-sm font-semibold text-zinc-700 dark:text-zinc-100">
           Gian Dutra
         </span>
-        <span className="text-sm text-zinc-500 truncate">
+        <span className="block text-sm text-zinc-500 dark:text-zinc-400">
           giandutra@hotmail.com.br
         </span>
       </div>
-      <Button variant="ghost" type="button" className="ml-auto p-2 hover:bg-zinc-50 rounded-md">
-        <LogOut className="w-5 h-6 text-zinc-500" />
+      <Button variant="ghost" className="ml-auto">
+        <LogOut className="h-5 w-5 text-zinc-500 dark:text-zinc-400" />
       </Button>
     </div>
-  );
+  )
 }
