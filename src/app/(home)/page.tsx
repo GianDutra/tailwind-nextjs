@@ -57,11 +57,7 @@ export default function Home() {
               />
             </Input.Root>
             <Input.Root>
-              <Input.Control
-                name="lastName"
-                type="text"
-                defaultValue="Dutra"
-              />
+              <Input.Control name="lastName" type="text" defaultValue="Dutra" />
             </Input.Root>
           </div>
         </div>
