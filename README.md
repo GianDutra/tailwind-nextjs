@@ -29,6 +29,9 @@ To create the website, the following was used:
 - **[Lucide](https://lucide.dev/)**
 - **[FramerMotion](https://www.framer.com/motion/)**
 - **[RadixUI](https://www.radix-ui.com/)**
+- **[Auto-animate](https://auto-animate.formkit.com/)**
+- **[Next Themes](https://www.npmjs.com/package/next-themes)**
+- **[Tailwind-merge && Tailwind-variants && Tailwind-scrollbar](https://tailwindcss.com/)**
 
 ## To-do list
 
