@@ -14,6 +14,9 @@
 </p>
 <img src="./.github/1.png" alt="tailwind-nextjs" title="tailwind-nextjs">
 <img src="./.github/2.png" alt="tailwind-nextjs" title="tailwind-nextjs">
+<img src="./.github/3.png" alt="tailwind-nextjs" title="tailwind-nextjs">
+<img src="./.github/4.png" alt="tailwind-nextjs" title="tailwind-nextjs">
+<img src="./.github/5.png" alt="tailwind-nextjs" title="tailwind-nextjs">
 
 > Challenge performed during the Tailwind CSS mini-course at RocketSeat's ignite bootcamp
 
@@ -26,6 +29,13 @@ To create the website, the following was used:
 - **[Lucide](https://lucide.dev/)**
 - **[FramerMotion](https://www.framer.com/motion/)**
 - **[RadixUI](https://www.radix-ui.com/)**
+
+## To-do list
+
+- [x] Responsive Mode
+- [x] Dark Theme
+- [x] Light/Dark Toggle Button
+- [x] FileInput with error, progress and complete mode(you can switch to viewing it inside the FileList.tsx file)
 
 ## 💻 Prerequisites
 
