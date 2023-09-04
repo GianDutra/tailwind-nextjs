@@ -13,6 +13,7 @@
   
 </p>
 <img src="./.github/1.png" alt="tailwind-nextjs" title="tailwind-nextjs">
+<img src="./.github/2.png" alt="tailwind-nextjs" title="tailwind-nextjs">
 
 > Desafio realizado durante o mini-curso de Tailwind CSS no bootcamp do ignite da RocketSeat
 
