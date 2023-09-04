@@ -15,11 +15,11 @@
 <img src="./.github/1.png" alt="tailwind-nextjs" title="tailwind-nextjs">
 <img src="./.github/2.png" alt="tailwind-nextjs" title="tailwind-nextjs">
 
-> Desafio realizado durante o mini-curso de Tailwind CSS no bootcamp do ignite da RocketSeat
+> Challenge performed during the Tailwind CSS mini-course at RocketSeat's ignite bootcamp
 
-## Linguagens e Tecnologias usadas
+## Tech Stack
 
-Para criar o site foi utilizado:
+To create the website, the following was used:
 
 #### **Website**   ([NextJS](https://nextjs.org/)  +  [React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 - **[TailWindCSS](https://tailwindcss.com/)**
@@ -27,38 +27,39 @@ Para criar o site foi utilizado:
 - **[FramerMotion](https://www.framer.com/motion/)**
 - **[RadixUI](https://www.radix-ui.com/)**
 
-## 💻 Pré-requisitos
+## 💻 Prerequisites
 
-Antes de começar, verifique se você possui instalado:
+Before you start, make sure you have installed:
 
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com)
+* [Pnpm](https://pnpm.io)
 
-## 🚀 Instalando <tailwind-nextjs>
+## 🚀 Installing <ignite_redux_zustand>
 
  
 ```bash
 
-# Clone este repositório
+# Clone this repository
 $ git clone git@github.com:GianDutra/tailwind-nextjs.git
 
-# Acesse a pasta do projeto no seu terminal
+# Access the project folder in your terminal
 $ cd tailwind-nextjs
 
-# Instale as dependências
-$ npm install
+# Install the dependencies
+$ pnpm install
 
-# Rode o aplicativo no modo de desenvolvedor
-$ npm run dev
+# Run the application in developer mode
+$ pnpm run dev
 
-# O aplicativo vai abrir por padrão na porta: 3000 - vá para http://localhost:3000/
+# The app will open by default on port: 3000 - go to http://localhost:3000/
 
 ```
 
 ---
 
 
-## 👨‍💼 Autor
+## 👨‍💼 Author
 
 <table>
   <tr>
