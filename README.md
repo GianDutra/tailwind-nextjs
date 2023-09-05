@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GianDutra/tailwind-nextjs?color=%2304D361">
 
-   <a href="https://github.com/GianDutra/DT-Money/commits/master">
+   <a href="https://github.com/GianDutra/tailwind-nextjs/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GianDutra/tailwind-nextjs">
   </a>
   
@@ -25,7 +25,7 @@
 To create the website, the following was used:
 
 #### **Website**   ([NextJS](https://nextjs.org/)  +  [React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
-- **[TailWindCSS](https://tailwindcss.com/)**
+- **[CSV](https://csv.js.org/)**
 - **[Lucide](https://lucide.dev/)**
 - **[FramerMotion](https://www.framer.com/motion/)**
 - **[RadixUI](https://www.radix-ui.com/)**
