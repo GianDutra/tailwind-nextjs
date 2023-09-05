@@ -25,7 +25,7 @@
 To create the website, the following was used:
 
 #### **Website**   ([NextJS](https://nextjs.org/)  +  [React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
-- **[CSV](https://csv.js.org/)**
+- **[TailWindCSS](https://tailwindcss.com/)**
 - **[Lucide](https://lucide.dev/)**
 - **[FramerMotion](https://www.framer.com/motion/)**
 - **[RadixUI](https://www.radix-ui.com/)**
